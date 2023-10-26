@@ -11,7 +11,8 @@
     "preview": "vite preview",
     "lint": "eslint . --ext .js,.svelte --fix",
     "format": "prettier --write .",
-    "server": "json-server --watch db.json"
+    "server": "json-server --watch db.json",
+    "stackblitz": "node init && npm run dev"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^2.4.6",

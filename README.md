@@ -2,6 +2,8 @@
 
 ## A Practical Introduction
 
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/nilsroehrig/svelte-workshop-ijs-munich-2023?title='Svexpensr'&startScript=stackblitz)
+
 In this repository, you'll find the code for the workshop's companion app. The examples are organized by chapters, and they build upon each other. Each chapter is tagged separately, allowing you to jump back to the start of a chapter at any time.
 
 ### Requirements
